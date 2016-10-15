@@ -40,3 +40,5 @@ begin  -- structure
     end if;
   end process stetemachine;
 end structure;
+
+-- test for git
